@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 this is my first project 
 Hello, how are you?
-=======
 this is my first project and its awesome
->>>>>>> 4919fc0433f0cda7d993177972360ab09a1c73bf
